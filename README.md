@@ -42,7 +42,7 @@ Bash              9 hrs 34 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 ## LOC
-[![Lines of Code](https://api.githubtrends.io/user/svg/xditya/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://xditya.me)
+[![Lines of Code](https://api.githubtrends.io/user/svg/tanmaysingh3856/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://tanmay666.me)
 
 ---
 
