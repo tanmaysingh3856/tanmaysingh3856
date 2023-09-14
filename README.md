@@ -1,5 +1,5 @@
 ## Hi, I'm [Tanmay](https://tanmay666.me) 
-[![Profile views](https://komarev.com/ghpvc/?username=xditya&label=Profile%20views&style=for-the-badge)](https://github.com/xditya)
+[![Profile views](https://komarev.com/ghpvc/?username=tanmaysingh3856&label=Profile%20views&style=for-the-badge)](https://github.com/tanmaysingh3856)
 - 💫 I’m currently working on [Pixsuvy](https://github.com/pixsuvy)
 - 📫 [Connect with me](#-connect-with-me).
 - ⚡ Always ready to help!
