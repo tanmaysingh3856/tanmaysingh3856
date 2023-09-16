@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tanmaysingh3856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanmaysingh3856" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21822593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21822593" height="30" width="40" /></a>
-<a href="https://instagram.com/tanmay666_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmay666_" height="30" width="40" /></a>
+<a href="https://tanmay666.me" class="padded"><img align="left" alt="https://tanmay666.me" width="28px" src="./res/website.png" /></a> 
+<a href="https://telegram.dog/slrded" class="padded"><img align="left" alt="slr" width="28px" src="./res/telegram.png" /></a> 
+<a href="https://twitter.com/tanmaysingh3856" class="padded"><img align="left" alt="Tanmay" width="28px" src="./res/twitter.png" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
