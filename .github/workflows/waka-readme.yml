@@ -18,9 +18,3 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
-          commit_message: 'Pixsuvy : auto fixes'
-          commit_options: '--no-verify'
-          repository: .
-          commit_user_name: tanmaysingh3856
-          commit_user_email: tanmaysingh3856@gmail.com
-          commit_author: tanmaysingh3856 <tanmaysingh3856@gmail.com>
