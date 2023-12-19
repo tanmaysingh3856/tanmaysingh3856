@@ -18,6 +18,4 @@ Markdown         1 hr 16 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-
-
-https://api.githubtrends.io/user/svg/tanmaysingh3856/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark
+![Github Stats](https://api.githubtrends.io/user/svg/tanmaysingh3856/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
