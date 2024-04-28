@@ -1,4 +1,4 @@
-# Hello, I'm Tanmay Singh 👋
+![image](https://github.com/tanmaysingh3856/tanmaysingh3856/assets/89771502/dfcdf35a-7470-40fb-922a-c7598071d728)# Hello, I'm Tanmay Singh 👋
 
 ## 📊 GitHub Stats
 
@@ -15,3 +15,5 @@
 ## 🔧 Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysingh3856&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+**Note:** My few private projects include a script for syncing projects.
