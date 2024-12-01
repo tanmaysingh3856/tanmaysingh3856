@@ -6,7 +6,7 @@
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanmaysingh3856&repo=your-repo-name&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanmaysingh3856&repo=KitsuneUserbot&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Top Languages
 
