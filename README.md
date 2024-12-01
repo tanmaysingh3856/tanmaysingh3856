@@ -4,9 +4,6 @@
 
 ![Tanmay's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=tanmaysingh3856&theme=radical)
 
-## 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tanmaysingh3856&repo=KitsuneUserbot&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔧 Top Languages
 
