@@ -22,6 +22,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysingh3856&layout=compact&bg_color=0d1117&hide_border=true&title_color=A9B1D6&text_color=718096&icon_color=A9B1D6" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaysingh3856&background=0d1117&hide_border=true&stroke=0d1117&ring=A9B1D6&fire=A9B1D6&currStreakLabel=718096&currStreakNum=A9B1D6&sideNums=A9B1D6&sideLabels=718096&dates=718096" alt="GitHub Streak" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanmaysingh3856/tanmaysingh3856/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanmaysingh3856/tanmaysingh3856/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tanmaysingh3856/tanmaysingh3856/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 <br/>
